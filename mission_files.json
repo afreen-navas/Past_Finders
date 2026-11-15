@@ -1,0 +1,76 @@
+[
+  {
+    "file_id": 1,
+    "level": "Level 2 (first use of the lander)",
+    "title": "Surveyor 3 touches down",
+    "text": "Surveyor 3 landed on April 20, 1967, in Oceanus Procellarum on the Moon. It bounced twice before settling, then used its robotic arm to test the lunar soil.",
+    "picture": {
+      "has_picture": true,
+      "description": "Surveyor 3 on the Moon (photo)",
+      "is_illustration": false,
+      "format": "image/jpeg",
+      "credit": "NASA / JPL / Alan L. Bean (Apollo 12)",
+      "nasa_id": "AS12-48-7121",
+      "sealed_jpeg_base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQABPxA="
+    }
+  },
+  {
+    "file_id": 2,
+    "level": "Level 2 (after power is restored)",
+    "title": "A visit from Apollo 12",
+    "text": "In November 1969, Apollo 12 astronauts removed parts from Surveyor 3, including its TV camera, and returned them to Earth. The rest of the lander remains on the Moon.",
+    "picture": {
+      "has_picture": true,
+      "description": "Apollo 12 astronaut beside Surveyor 3 (photo)",
+      "is_illustration": false,
+      "format": "image/jpeg",
+      "credit": "NASA (Exact: NASA / Johnson Space Center / Alan L. Bean)",
+      "nasa_id": "AS12-48-7136",
+      "sealed_jpeg_base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQABPxA="
+    }
+  },
+  {
+    "file_id": 3,
+    "level": "Level 3 (first buried clue)",
+    "title": "Phoenix lands in the Martian arctic",
+    "text": "Phoenix landed in the Martian arctic on May 25, 2008, and kept working until winter darkness arrived.",
+    "picture": {
+      "has_picture": false,
+      "description": null,
+      "is_illustration": false,
+      "format": null,
+      "credit": null,
+      "sealed_jpeg_base64": null
+    }
+  },
+  {
+    "file_id": 4,
+    "level": "Level 3 (after the compare puzzle)",
+    "title": "A later look from orbit",
+    "text": "A later orbiter image of the landing site showed signs of ice damage to a solar panel.",
+    "picture": {
+      "has_picture": true,
+      "description": "Illustration of a lander resting on the Martian surface (not a real photo)",
+      "is_illustration": true,
+      "format": "image/jpeg",
+      "credit": "NASA / JPL-Caltech / University of Arizona / Lockheed Martin (Artist's Illustration)",
+      "nasa_id": "PIA10664",
+      "sealed_jpeg_base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQABPxA="
+    }
+  },
+  {
+    "file_id": 5,
+    "level": "Level 4 (at Phoenix, before its message)",
+    "title": "The mission ends",
+    "text": "NASA ended the Phoenix mission in May 2010, after final attempts to listen for a signal.",
+    "picture": {
+      "has_picture": true,
+      "description": "Phoenix lander descending (illustration)",
+      "is_illustration": true,
+      "format": "image/jpeg",
+      "credit": "NASA / JPL-Caltech / University of Arizona (Artist's Illustration)",
+      "nasa_id": "PIA10666",
+      "sealed_jpeg_base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////wgALCAABAAEBAREA/8QAFBABAAAAAAAAAAAAAAAAAAAAAP/aAAgBAQABPxA="
+    }
+  }
+]
